@@ -4,21 +4,21 @@ git merge origin/master
 git push origin gh-pages
 --------------------------------
 
-解决一个麻烦 
+人
 
-是不是我们被一个绚烂的名称所迷惑
-我们被一个又一个绚烂的作品所迷惑 
+方向：1/2自产 ＋ 1/2 翻译 
 
-我们到目前为止到底做了什么 能告诉大家：这就是数据新闻？
+伦敦团队
 
-以上是我们呈现给读者的，对同事、对同行
+- to tell a stories
+- 编辑过程自动化 
+- integrated with social media
+- use data outputs beyond data vis (twitter bot)
 
-1. 处处都能看到 数据 新闻点
+“Interactivity is a design attribute just as much as colour. Make the decision case by case. Does this article really need to be interactive? There is no intrinsic value on the “Oh, I can click on that!”
 
-2. 通过数据 找出新闻报道的中轴线
+https://onlinejournalismblog.com/2017/02/14/newsrewired-2017-highlights/#more-23299 
 
-3. 通过数据和信息 快速还原事件样貌
+https://www.slideshare.net/joelmgunter/martin-stabe-interactive-producer-financial-times
 
-4. 通过数据 向外合作
-
-5. 站稳新闻报道的根基
+http://www.currybet.net/cbet_blog/2013/01/data-journalism-not-the-job-of.php
